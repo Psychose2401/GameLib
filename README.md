@@ -1,6 +1,6 @@
 # GameLib {Coming Soon...}
 
-GameLib is an application designed to simplify the management of your game collection. Its name is a fusion of "Game" and "Lib" (short for "Library" in French), which perfectly reflects its goal: to become the ultimate library for all your games.
+GameLib is an application designed to simplify the management of your game collection. Its name is a fusion of "Game" and "Lib" (short for "Library"), which perfectly reflects its goal: to become the ultimate library for all your games.
 
 ### Features
 
