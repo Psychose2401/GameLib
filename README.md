@@ -1,11 +1,18 @@
-# GameLib
-**Comming Soon...**
+# GameLib {Coming Soon...}
 
-**GameLib** est une application conçue pour simplifier la gestion de votre collection de jeux. Son nom est une fusion entre "Game" et "Lib" (diminutif de "Library" ou bibliothèque en français), ce qui reflète parfaitement son objectif : devenir la bibliothèque ultime pour tous vos jeux.
+GameLib is an application designed to simplify the management of your game collection. Its name is a fusion of "Game" and "Lib" (short for "Library" in French), which perfectly reflects its goal: to become the ultimate library for all your games.
 
-Fini les tracas liés à l'extraction des fichiers ZIP et à la recherche de l'emplacement idéal pour stocker vos jeux. **GameLib** vous offre une solution simple et efficace pour stocker et organiser vos jeux. Dites adieu aux fichiers ZIP qui occupent de l'espace inutilement, et dites bonjour à une gestion rationalisée de votre collection de jeux.
+### Features
 
-L'interface de **GameLib** est soigneusement conçue pour être conviviale et facile à utiliser. Nous sommes déterminés à vous offrir la meilleure expérience possible, et des mises à jour régulières amélioreront encore davantage l'application avec le temps.
+- No more hassles with extracting ZIP files and finding the perfect location to store your games.
+- GameLib offers a simple and efficient solution for storing and organizing your games.
+- Say goodbye to ZIP files that unnecessarily occupy space and say hello to streamlined game collection management.
+
+### User-Friendly Interface
+
+GameLib interface is carefully crafted to be user-friendly and easy to navigate. We are committed to providing you with the best possible experience, and regular updates will further enhance the application over time.
+
+Discover a new way to manage your game library with GameLib. Spend more time playing and less time organizing. GameLib, your game library, made simple.
 
 ## How to install ?
 
