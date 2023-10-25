@@ -14,10 +14,14 @@ GameLib interface is carefully crafted to be user-friendly and easy to navigate.
 
 Discover a new way to manage your game library with GameLib. Spend more time playing and less time organizing. GameLib, your game library, made simple.
 
-## How to install ?
+## How to install/Updates ?
 
 Download the release version of GameLib and wait while the "GameLibInstaller.exe" download "GameLib.exe".
 after you have been install GameLib you can delete "GameLibInstaller.exe"
+
+### To Updates
+just drag your "Games_Profiles" folder in your new app_directory, then you can right click on your new icon app and click "open file directory".
+after this you can uninstall your old version of GameLib.
 
 ## How to Uninstall ?..
 
