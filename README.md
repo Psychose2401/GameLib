@@ -1,4 +1,4 @@
-# GameLib {(https://youtu.be/bWmM29M4y3c)}
+# GameLib 
 
 GameLib is an application designed to simplify the management of your game collection. Its name is a fusion of "Game" and "Lib" (short for "Library"), which perfectly reflects its goal: to become the ultimate library for all your games.
 
@@ -26,4 +26,5 @@ after you have been install GameLib you can delete "GameLibInstaller.exe"
 1. after this shearch for .exe call "Uninstall" or "Uninst.exe"
 
 ### How to Use GameLib ?
+Go to : https://youtu.be/bWmM29M4y3c
 * **Important!** Don't mods your game files in the app_directory ... I don't know how the program could act..
